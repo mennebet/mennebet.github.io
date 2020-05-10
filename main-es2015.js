@@ -260,7 +260,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](153, "ul");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](154, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](155, "Refonte d'une l'application de gestion des moniteurs et de mesure d'audience pour un client ATOS.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](155, "Refonte d'une application de gestion des moniteurs et de mesure d'audience pour un client ATOS en utilisant Angular et Nestjs.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](156, "hr");
@@ -281,10 +281,10 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](167, " Cr\u00E9er des objets E-DEAL CRM. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](169, "Construire et g\u00E9rer les d\u00E9pendances et le pr\u00E9-requis du CRMpar le biais du MAVEN.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](169, "Construire et g\u00E9rer les pr\u00E9-requis du CRM par le biais du MAVEN.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](170, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, " Cr\u00E9er des interfaces de CRUD Pour les objets E-DEAL CRM.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, " Cr\u00E9er des interfaces de CRUD d\u00E9di\u00E9es aux objets E-DEAL CRM.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](172, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](173, " G\u00E9rer les bases de donn\u00E9es avec Dbeaver et HeidiSQL.");

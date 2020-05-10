@@ -511,7 +511,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](154, "li");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](155, "Refonte d'une l'application de gestion des moniteurs et de mesure d'audience pour un client ATOS.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](155, "Refonte d'une application de gestion des moniteurs et de mesure d'audience pour un client ATOS en utilisant Angular et Nestjs.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -553,13 +553,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "li");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](169, "Construire et g\xE9rer les d\xE9pendances et le pr\xE9-requis du CRMpar le biais du MAVEN.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](169, "Construire et g\xE9rer les pr\xE9-requis du CRM par le biais du MAVEN.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](170, "li");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, " Cr\xE9er des interfaces de CRUD Pour les objets E-DEAL CRM.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](171, " Cr\xE9er des interfaces de CRUD d\xE9di\xE9es aux objets E-DEAL CRM.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
